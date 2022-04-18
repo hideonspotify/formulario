@@ -1,0 +1,15 @@
+body{
+	background-image: url(fond.jpg);
+}
+h1{
+	text-align: center;
+	color: black;
+	font-size: 64px;
+	font-family: 'calibri';
+}
+h2{
+	text-align: center;	
+	color: yellow;
+	font-size: 35px;
+	font-family: 'calibri';
+}
